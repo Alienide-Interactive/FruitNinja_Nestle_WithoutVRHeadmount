@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.fruitslashvr_2d_v_0.01.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "P:\\Alienide\\OfficialProject\\FrootNinja_WithoutHedsetVR\\FruitSlashVR_3D_v_0.08\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "FruitSlashVR_2D_v_0.01 [Testing]"
+        }
+      }
+    }
+  ]
+}
