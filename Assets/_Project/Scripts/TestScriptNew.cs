@@ -7,7 +7,7 @@ public class TestScriptNew : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("I a new script to test git");
+        Debug.Log("I am new script to test git");
         
     }
 
